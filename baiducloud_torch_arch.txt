@@ -10,3 +10,5 @@ Nvidia提供了在Nano上的预编译的pytorch安装包，可惜，需要翻墙
 下载完毕后，直接运行 sudo pip3 install torch-1.6.0a0+b31f58d-cp36-cp36m-linux_aarch64.whl
 
 就可以安装了。
+
+https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-available/72048
