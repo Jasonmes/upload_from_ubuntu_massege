@@ -1,0 +1,12 @@
+Pytorch在arm64架构上需要自己编译安装。
+
+Nvidia提供了在Nano上的预编译的pytorch安装包，可惜，需要翻墙才能下载。
+
+这里提供了pytorch 1.6.0的已经编译好的wheel安装包。
+
+链接：https://pan.baidu.com/s/1bjMHIg1KDJ0HMB37HB_DzQ 
+提取码：c3z2
+
+下载完毕后，直接运行 sudo pip3 install torch-1.6.0a0+b31f58d-cp36-cp36m-linux_aarch64.whl
+
+就可以安装了。
