@@ -12,3 +12,7 @@ Nvidia提供了在Nano上的预编译的pytorch安装包，可惜，需要翻墙
 就可以安装了。
 
 https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-available/72048
+
+
+2020 11 09
+https://files.pythonhosted.org/packages/45/0b/38b06fd9b92dc2b68d58b75f900e97884c45bedd2ff83203d933cf5851c9/future-0.18.2.tar.gz
